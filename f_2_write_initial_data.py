@@ -1,6 +1,6 @@
 import redis
 
-from initial_data import hats
+from f_1_initial_data import hats
 
 
 if __name__ == '__main__':

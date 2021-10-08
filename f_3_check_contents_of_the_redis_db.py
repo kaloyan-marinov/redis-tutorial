@@ -1,5 +1,3 @@
-f_3_check_contents_of_the_redis_db.py
-
 """
 This script is a Python counterpart to doing the following in the Redis CLI:
 
